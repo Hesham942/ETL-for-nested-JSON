@@ -19,6 +19,6 @@ pip install pandas json spark pyspark
 
 * the dataset is nested json format and it can't be read so we needed to change into a readable or structured format. 
 
-  1. **Data Source:** this problem is found a lot you can find it online one of the best providing these datasets is kaggle.
+  1. **Data Source:** this problem is found a lot you can find it online and one of the best providing these datasets is kaggle.
   2. **Transformation:**  we need to explode pivot columns and flattening nested structures to deal with the real data .
   3. **Loading:**  data is being uploaded to postgreSQL using psycopg2 library.
