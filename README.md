@@ -13,7 +13,7 @@ This project requires Python 3.x and the following libraries:
 You can install them using pip:
 
 ```bash
-pip install pandas json
+pip install pandas json spark pyspark 
 ```
 **4. Usage Instructions:**
 
