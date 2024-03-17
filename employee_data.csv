@@ -1,0 +1,501 @@
+first_name,last_name,experience,relocation,specialty,skills,state
+Margaret,Mcdonald,Mid,no,Database,"['skLearn', 'Java', 'R', 'SQL', 'Spark', 'C++']",AL
+Michael,Carter,Senior,yes,Statistics,"['TensorFlow', 'R', 'Spark', 'MongoDB', 'C++', 'SQL']",AR
+Brenda,Tyler,Mid,no,Database,['Spark'],UT
+Joseph,King,Senior,maybe,Machine Learning,"['skLearn', 'SQL', 'R', 'Spark', 'Java', 'C++', 'Python', 'TensorFlow']",FL
+Laura,Webb,Junior,maybe,Machine Learning,"['TensorFlow', 'C++', 'SQL', 'Java', 'R', 'MongoDB']",WY
+Cheryl,Ramirez,Mid,no,Data Visualization,"['C++', 'Python', 'R', 'Java', 'skLearn', 'SQL', 'MongoDB', 'Spark', 'TensorFlow']",OK
+Charles,Stewart,Mid,maybe,Machine Learning,"['MongoDB', 'C++', 'Java', 'SQL', 'R', 'Python', 'skLearn']",NM
+Bradley,Peterson,Senior,yes,Data Visualization,"['skLearn', 'MongoDB', 'Spark']",TX
+William,Lin,Mid,maybe,Machine Learning,"['Python', 'skLearn', 'R']",WI
+Richard,Woods,Senior,yes,Database,"['skLearn', 'MongoDB']",UT
+Robert,Rivera,Junior,yes,Database,"['Java', 'skLearn', 'Python', 'Spark', 'TensorFlow', 'C++', 'SQL']",PA
+Tanya,Schultz,Mid,yes,Statistics,"['SQL', 'MongoDB', 'R', 'C++', 'Spark', 'TensorFlow']",NV
+Scott,Nunez,Senior,maybe,Database,"['skLearn', 'Java', 'SQL', 'C++', 'Spark', 'MongoDB']",MO
+Brett,Hoffman,Junior,no,Database,"['Java', 'TensorFlow', 'C++']",OK
+Sean,Williams,Junior,no,Data Visualization,"['SQL', 'MongoDB', 'R', 'Spark']",NV
+Steven,Craig,Senior,maybe,Data Visualization,"['TensorFlow', 'SQL']",ID
+Mr.,James,Mid,maybe,Data Visualization,"['TensorFlow', 'Java', 'MongoDB', 'Python', 'Spark', 'C++', 'R', 'skLearn', 'SQL']",KY
+Linda,Griffin,Junior,no,Statistics,"['TensorFlow', 'Spark', 'skLearn', 'SQL', 'Python', 'MongoDB', 'C++', 'Java', 'R']",NE
+Jacob,Espinoza,Junior,maybe,Statistics,['skLearn'],WV
+Nicole,Martin,Mid,maybe,Data Visualization,"['Java', 'SQL']",NC
+James,Mosley,Junior,yes,Statistics,"['TensorFlow', 'Python', 'C++', 'R', 'Java']",AR
+Whitney,Erickson,Junior,yes,Statistics,"['SQL', 'MongoDB', 'Java', 'Python', 'TensorFlow']",WI
+Rachel,Walker,Senior,no,Statistics,"['Python', 'TensorFlow', 'MongoDB', 'R', 'skLearn', 'SQL', 'Java', 'Spark', 'C++']",TN
+Mitchell,Nash,Junior,no,Statistics,"['Spark', 'R']",CT
+Michael,Williams,Mid,yes,Data Visualization,"['TensorFlow', 'SQL', 'Python', 'Java', 'R', 'MongoDB', 'skLearn', 'Spark', 'C++']",AL
+Cory,Jones,Junior,no,Statistics,"['TensorFlow', 'C++', 'Spark', 'MongoDB', 'R']",IN
+Mary,Sanford,Senior,no,Data Visualization,"['SQL', 'TensorFlow', 'C++', 'R', 'Java', 'Python']",CT
+Mary,Morgan,Senior,yes,Data Visualization,['R'],ND
+Norma,Norris,Junior,yes,Database,"['R', 'C++']",HI
+Briana,Mercado,Mid,yes,Statistics,"['Spark', 'R']",NJ
+Ashley,Hoover,Mid,no,Machine Learning,"['Java', 'TensorFlow', 'SQL', 'MongoDB']",TX
+William,Novak,Junior,no,Statistics,"['MongoDB', 'TensorFlow', 'Java', 'Python', 'C++', 'Spark', 'R']",GA
+Donna,Cole,Junior,maybe,Database,"['Spark', 'R', 'TensorFlow', 'SQL', 'C++']",CO
+Tiffany,Olson,Junior,maybe,Data Visualization,['Spark'],MO
+Luis,White,Junior,no,Data Visualization,"['R', 'SQL', 'TensorFlow']",CO
+Travis,Hawkins,Mid,yes,Data Visualization,['Spark'],CO
+Robin,Reilly,Mid,no,Data Visualization,"['TensorFlow', 'C++', 'Java', 'MongoDB', 'skLearn', 'Python', 'SQL', 'R']",LA
+Christine,Walker,Mid,maybe,Machine Learning,"['Python', 'C++', 'TensorFlow', 'Java', 'Spark', 'skLearn', 'MongoDB', 'SQL']",AK
+April,Morgan,Mid,maybe,Data Visualization,['R'],AR
+Jeffrey,Wright,Senior,no,Statistics,"['SQL', 'Python', 'TensorFlow', 'Spark', 'C++']",TX
+Michael,Stewart,Senior,no,Machine Learning,"['skLearn', 'SQL', 'C++', 'R']",SD
+Jack,King,Senior,maybe,Machine Learning,"['SQL', 'Java', 'R', 'skLearn', 'MongoDB', 'C++', 'Python']",MA
+Amber,Gibbs,Mid,no,Statistics,"['MongoDB', 'Java', 'TensorFlow', 'Spark']",NM
+Sarah,Russell,Junior,yes,Data Visualization,"['SQL', 'R', 'Python', 'MongoDB', 'Java', 'skLearn', 'TensorFlow']",GA
+Carrie,Brown,Junior,maybe,Data Visualization,"['Python', 'Java', 'TensorFlow', 'MongoDB']",MO
+Elizabeth,Ramirez,Mid,maybe,Data Visualization,"['Spark', 'C++', 'Java', 'R', 'MongoDB']",MT
+Aaron,Ferguson,Junior,yes,Data Visualization,"['TensorFlow', 'SQL', 'MongoDB']",GA
+Richard,Estrada,Mid,maybe,Statistics,"['Java', 'TensorFlow', 'skLearn', 'R', 'C++', 'Python', 'Spark', 'MongoDB', 'SQL']",TX
+Ann,Hall,Mid,yes,Data Visualization,"['TensorFlow', 'Java', 'SQL', 'R', 'Spark', 'MongoDB']",SC
+Barbara,Chavez,Junior,yes,Data Visualization,"['Java', 'Python', 'SQL', 'MongoDB', 'Spark', 'C++', 'TensorFlow', 'R']",NY
+Neil,Maxwell,Mid,yes,Statistics,"['Python', 'Spark', 'R', 'TensorFlow', 'SQL', 'Java', 'C++']",DE
+Sarah,Mcguire,Junior,maybe,Statistics,"['MongoDB', 'SQL', 'Python', 'Spark']",CT
+Tiffany,Ramsey,Senior,maybe,Database,"['Python', 'MongoDB', 'Spark', 'R', 'skLearn', 'TensorFlow']",SC
+Shawn,Hall,Senior,maybe,Statistics,"['MongoDB', 'skLearn', 'C++', 'Python', 'R', 'Java', 'SQL']",IL
+Brett,Gonzalez,Mid,maybe,Statistics,"['MongoDB', 'Java', 'SQL']",HI
+Alexandra,Glover,Mid,yes,Statistics,"['Spark', 'TensorFlow']",AZ
+Nathan,Hancock,Senior,yes,Statistics,['C++'],LA
+Jennifer,Walker,Junior,maybe,Data Visualization,"['SQL', 'TensorFlow', 'Java', 'skLearn', 'C++']",LA
+Paul,Brady,Senior,yes,Statistics,"['MongoDB', 'TensorFlow', 'Java', 'SQL', 'C++', 'Python', 'Spark']",IN
+James,Larson,Mid,yes,Statistics,"['skLearn', 'C++', 'R', 'Spark']",IL
+Kimberly,Baldwin,Senior,yes,Data Visualization,['TensorFlow'],NV
+Paul,Miller,Mid,no,Database,"['Java', 'R', 'SQL', 'TensorFlow', 'C++']",LA
+Andrea,Walters,Senior,maybe,Statistics,"['Spark', 'Java', 'skLearn', 'R', 'Python', 'C++']",MA
+Samantha,Bradley,Junior,no,Database,"['Python', 'Spark']",NC
+Gregg,Hernandez,Junior,maybe,Data Visualization,"['Java', 'Spark', 'SQL', 'R', 'Python', 'skLearn', 'TensorFlow', 'C++', 'MongoDB']",WY
+James,Richardson,Mid,no,Machine Learning,"['TensorFlow', 'Spark']",WI
+Tammy,Miller,Mid,maybe,Database,"['skLearn', 'R', 'TensorFlow', 'MongoDB', 'C++', 'Java']",FL
+Tiffany,Jones,Senior,no,Statistics,['SQL'],NC
+Steven,Conway,Junior,yes,Database,"['TensorFlow', 'Java', 'R']",TN
+Matthew,Allen,Junior,maybe,Machine Learning,"['C++', 'SQL', 'TensorFlow', 'Spark']",AR
+Dennis,Chase,Senior,no,Data Visualization,"['Python', 'Spark', 'skLearn', 'C++', 'MongoDB', 'R']",IA
+Jennifer,Taylor,Mid,maybe,Data Visualization,"['C++', 'SQL', 'TensorFlow', 'MongoDB', 'Java', 'Python', 'R', 'Spark', 'skLearn']",WA
+Douglas,Dennis,Junior,no,Database,"['TensorFlow', 'Java', 'Python']",VA
+Dawn,Walker,Junior,maybe,Data Visualization,"['TensorFlow', 'Java', 'C++', 'skLearn', 'Python', 'R', 'MongoDB', 'SQL', 'Spark']",TN
+Ashley,Wilson,Junior,yes,Data Visualization,"['Java', 'R', 'SQL', 'C++', 'Python', 'skLearn']",DE
+Karen,Bryan,Junior,yes,Database,"['skLearn', 'R', 'TensorFlow', 'Spark', 'Java', 'MongoDB', 'Python']",RI
+Michael,Carter,Junior,maybe,Data Visualization,"['Java', 'C++']",FL
+Karen,Olsen,Junior,maybe,Database,"['skLearn', 'Spark', 'R', 'Java', 'Python', 'SQL', 'TensorFlow', 'MongoDB']",TN
+Laura,White,Senior,no,Data Visualization,"['Python', 'Java', 'SQL', 'skLearn', 'Spark', 'C++', 'R', 'TensorFlow']",IL
+Mary,Torres,Senior,maybe,Data Visualization,"['C++', 'SQL', 'Java', 'MongoDB', 'TensorFlow', 'R', 'Python', 'Spark', 'skLearn']",NY
+Jennifer,Wiley,Mid,no,Data Visualization,"['Java', 'C++', 'TensorFlow', 'SQL', 'MongoDB', 'R', 'Python']",NE
+Jack,Chavez,Mid,no,Machine Learning,['Spark'],LA
+Tammy,Hoover,Senior,yes,Statistics,"['Spark', 'C++', 'TensorFlow', 'R', 'SQL']",CO
+Kayla,Johnson,Mid,no,Database,"['TensorFlow', 'Java', 'R', 'C++']",WA
+Roy,Morgan,Senior,yes,Database,"['Python', 'R', 'skLearn']",NY
+Rebecca,Jones,Mid,no,Database,"['Python', 'R', 'Java', 'SQL', 'TensorFlow', 'Spark', 'MongoDB', 'skLearn']",VA
+Stephanie,Ingram,Mid,yes,Data Visualization,['MongoDB'],MD
+Mark,Downs,Junior,no,Statistics,"['skLearn', 'MongoDB', 'C++', 'Java', 'Python', 'Spark', 'SQL', 'R', 'TensorFlow']",NY
+Sharon,Taylor,Mid,no,Data Visualization,"['MongoDB', 'R']",CA
+Karen,Carter,Junior,yes,Statistics,"['Java', 'SQL', 'MongoDB', 'TensorFlow']",CO
+Michael,Brown,Mid,no,Statistics,"['skLearn', 'Spark', 'MongoDB']",RI
+David,Sanchez,Senior,maybe,Statistics,['skLearn'],NC
+Nicholas,Greene,Senior,yes,Data Visualization,"['C++', 'skLearn']",OK
+Suzanne,Tran,Junior,maybe,Data Visualization,['MongoDB'],NC
+Shawna,Simpson,Mid,maybe,Machine Learning,"['Python', 'TensorFlow', 'R', 'Spark', 'Java', 'C++', 'SQL', 'MongoDB']",NC
+Brittany,Miller,Mid,yes,Database,"['R', 'skLearn', 'Java', 'SQL', 'Python', 'TensorFlow', 'Spark', 'C++']",OR
+Roy,Johnson,Mid,yes,Machine Learning,"['C++', 'TensorFlow', 'SQL', 'R', 'Python']",NM
+Melissa,Hart,Senior,maybe,Data Visualization,"['Java', 'skLearn', 'Python', 'SQL', 'TensorFlow', 'C++']",DE
+George,Fitzpatrick,Senior,maybe,Database,"['SQL', 'C++', 'Spark', 'R', 'skLearn', 'Python', 'MongoDB', 'TensorFlow', 'Java']",ME
+Krista,Smith,Senior,maybe,Machine Learning,"['SQL', 'Python', 'TensorFlow', 'skLearn', 'MongoDB', 'Java', 'R']",OH
+Zachary,Hunter,Senior,maybe,Data Visualization,"['Python', 'Java', 'R', 'SQL', 'Spark', 'skLearn', 'C++', 'TensorFlow']",IN
+Valerie,Perry,Junior,no,Database,"['C++', 'Java', 'SQL', 'R', 'skLearn', 'Spark', 'MongoDB']",RI
+Theresa,Martinez,Senior,yes,Data Visualization,"['Python', 'SQL', 'MongoDB', 'C++', 'TensorFlow', 'skLearn']",WI
+Gloria,Rivera,Senior,maybe,Statistics,"['R', 'SQL', 'Java', 'MongoDB', 'skLearn', 'Python', 'TensorFlow', 'Spark', 'C++']",CA
+Denise,Gonzalez,Mid,yes,Data Visualization,"['R', 'Spark', 'C++', 'Java', 'SQL', 'Python', 'TensorFlow']",PA
+Deborah,Garcia,Senior,no,Machine Learning,"['SQL', 'Python', 'TensorFlow', 'Spark', 'Java']",TX
+Kevin,Campbell,Junior,maybe,Statistics,"['Python', 'skLearn', 'C++', 'R', 'Spark', 'Java', 'SQL', 'TensorFlow', 'MongoDB']",MO
+Jeffrey,Herman,Junior,maybe,Statistics,"['R', 'skLearn', 'Spark']",TN
+Emily,Gonzalez,Mid,no,Machine Learning,"['TensorFlow', 'C++', 'MongoDB', 'skLearn']",AZ
+Jacqueline,Spencer,Mid,no,Statistics,"['Java', 'Python', 'skLearn', 'R', 'MongoDB', 'C++', 'SQL', 'TensorFlow']",ME
+Sarah,Porter,Senior,yes,Statistics,"['MongoDB', 'Python', 'skLearn', 'SQL', 'Java', 'TensorFlow']",KY
+Rodney,Thompson,Mid,maybe,Statistics,"['MongoDB', 'Python', 'Java', 'Spark', 'SQL', 'skLearn']",MD
+Jennifer,Stewart,Senior,maybe,Data Visualization,"['Python', 'Java', 'skLearn', 'R', 'Spark']",CA
+Michael,Wolfe,Mid,yes,Statistics,"['Python', 'skLearn', 'SQL']",WI
+Shirley,Hurst,Junior,no,Machine Learning,"['SQL', 'MongoDB', 'Python', 'C++', 'skLearn', 'TensorFlow', 'R', 'Spark', 'Java']",ID
+Larry,Carney,Senior,no,Machine Learning,"['C++', 'Spark', 'R', 'Python']",KS
+Jacob,Harding,Mid,no,Machine Learning,"['Python', 'MongoDB', 'Spark', 'TensorFlow', 'skLearn']",SC
+Keith,Mcmillan,Senior,maybe,Statistics,"['Spark', 'SQL']",MN
+Christina,Wilson,Junior,yes,Data Visualization,['Spark'],CT
+Danielle,Gray,Mid,yes,Statistics,"['Spark', 'skLearn', 'C++', 'R']",NV
+Erin,Griffith,Mid,no,Statistics,"['TensorFlow', 'SQL', 'Python']",UT
+Jonathan,Cameron,Mid,maybe,Data Visualization,"['Spark', 'R', 'SQL', 'Java', 'MongoDB', 'skLearn']",CT
+Thomas,Brown,Mid,no,Data Visualization,"['Spark', 'MongoDB', 'SQL', 'TensorFlow']",WI
+Christina,Jones,Mid,yes,Statistics,"['R', 'skLearn', 'SQL', 'Java', 'C++']",IN
+Wendy,Salas,Senior,yes,Database,"['MongoDB', 'SQL', 'Spark', 'C++', 'TensorFlow', 'Java']",WV
+Nicholas,Bartlett,Mid,yes,Machine Learning,"['Java', 'Spark', 'C++', 'SQL', 'MongoDB']",IN
+Ariel,Eaton,Mid,no,Data Visualization,"['Spark', 'R', 'Java', 'TensorFlow']",AL
+Donald,Jefferson,Mid,maybe,Machine Learning,"['C++', 'SQL', 'skLearn', 'Python', 'MongoDB', 'Spark']",MT
+Nathan,Sanders,Mid,no,Machine Learning,"['Java', 'C++', 'R', 'Python']",ND
+Ian,Russell,Senior,yes,Machine Learning,"['SQL', 'TensorFlow', 'R', 'MongoDB', 'C++', 'Java']",FL
+James,Wiggins,Mid,yes,Machine Learning,"['Java', 'R', 'Python', 'SQL', 'TensorFlow', 'MongoDB']",PA
+Olivia,Thomas,Senior,maybe,Database,"['Python', 'C++']",ME
+Victoria,Adkins,Mid,maybe,Database,"['Spark', 'TensorFlow', 'Java', 'SQL', 'MongoDB']",FL
+Kevin,Murphy,Senior,yes,Database,"['Java', 'C++', 'TensorFlow', 'Spark', 'skLearn']",UT
+Kevin,Robinson,Mid,maybe,Database,"['skLearn', 'Java', 'MongoDB', 'TensorFlow', 'C++', 'Spark', 'Python']",CO
+Whitney,Woods,Senior,no,Machine Learning,"['skLearn', 'C++', 'Spark', 'R', 'Java']",KY
+Norma,Foley,Mid,maybe,Statistics,"['MongoDB', 'SQL', 'Spark', 'R', 'skLearn', 'Python', 'Java', 'TensorFlow', 'C++']",MN
+Jose,Williams,Junior,yes,Statistics,"['Python', 'Spark', 'TensorFlow', 'Java', 'C++', 'SQL']",MA
+Daisy,Wright,Junior,no,Statistics,"['R', 'SQL', 'skLearn', 'MongoDB']",NY
+Richard,Rojas,Junior,no,Machine Learning,"['Java', 'Spark', 'SQL', 'skLearn']",CA
+Jennifer,Robinson,Mid,no,Database,"['skLearn', 'MongoDB', 'Java', 'SQL']",KS
+Michael,Rice,Junior,no,Data Visualization,"['Python', 'TensorFlow', 'Java', 'MongoDB']",MD
+Bradley,Howard,Junior,no,Machine Learning,"['C++', 'MongoDB']",OR
+Tyler,Lee,Junior,yes,Statistics,"['Spark', 'Java']",MO
+Samantha,Pham,Senior,maybe,Data Visualization,['C++'],UT
+Sandra,Ford,Junior,maybe,Statistics,"['C++', 'Spark']",MI
+Christine,Ferguson,Senior,maybe,Database,"['Python', 'skLearn', 'Spark']",CA
+Shawn,James,Mid,maybe,Machine Learning,"['R', 'Python']",LA
+Zachary,Christian,Mid,no,Data Visualization,"['Java', 'MongoDB', 'TensorFlow', 'R', 'SQL', 'C++', 'Spark']",ID
+Elizabeth,Prince,Junior,maybe,Database,['TensorFlow'],ID
+Nicholas,Bruce,Mid,yes,Data Visualization,"['R', 'Spark']",ND
+Leonard,Green,Junior,yes,Data Visualization,"['Java', 'Spark']",DE
+Deborah,Moss,Mid,yes,Statistics,"['Java', 'SQL', 'R', 'C++', 'skLearn', 'MongoDB', 'Python', 'Spark', 'TensorFlow']",UT
+Curtis,Collins,Mid,maybe,Statistics,"['C++', 'Python', 'TensorFlow', 'Spark']",GA
+Christopher,Page,Mid,maybe,Statistics,"['TensorFlow', 'Spark', 'C++', 'R', 'SQL']",MS
+James,Mahoney,Senior,no,Machine Learning,"['Spark', 'TensorFlow', 'Java', 'MongoDB', 'SQL', 'C++']",IL
+Vicki,Ellison,Mid,no,Statistics,"['R', 'Spark', 'TensorFlow', 'Java', 'skLearn']",MI
+Lori,Finley,Mid,maybe,Database,"['TensorFlow', 'Java', 'R', 'C++', 'skLearn', 'MongoDB', 'SQL']",KY
+Benjamin,Anderson,Senior,yes,Statistics,"['R', 'SQL']",IA
+Julie,Russell,Junior,maybe,Data Visualization,"['TensorFlow', 'skLearn', 'SQL', 'Python', 'C++', 'R']",UT
+Eugene,Jackson,Mid,no,Database,['skLearn'],CA
+Lisa,Berry,Mid,maybe,Machine Learning,"['R', 'Python']",MI
+Gregory,Murphy,Senior,yes,Database,"['MongoDB', 'C++', 'Spark', 'Python', 'TensorFlow', 'SQL', 'Java']",KS
+Tommy,Hawkins,Mid,no,Machine Learning,"['skLearn', 'MongoDB', 'SQL', 'R', 'TensorFlow', 'Java']",NE
+Jacqueline,Willis,Senior,no,Database,"['MongoDB', 'SQL', 'Python', 'Spark', 'R', 'Java']",ID
+Robert,Marshall,Senior,maybe,Machine Learning,"['Java', 'TensorFlow', 'C++', 'skLearn', 'Python', 'MongoDB', 'Spark', 'SQL']",WA
+Tamara,Mack,Senior,yes,Machine Learning,"['skLearn', 'TensorFlow', 'Python', 'Spark', 'Java', 'R']",NH
+Charles,Hayden,Junior,no,Statistics,"['MongoDB', 'C++']",MO
+Patrick,Powell,Junior,yes,Data Visualization,"['C++', 'SQL', 'Python', 'TensorFlow', 'Spark', 'skLearn', 'R']",OR
+James,Davis,Mid,yes,Data Visualization,"['Python', 'TensorFlow']",PA
+John,Hill,Mid,maybe,Data Visualization,"['SQL', 'Python', 'Java', 'MongoDB']",NY
+Jessica,Cortez,Mid,yes,Data Visualization,"['Python', 'MongoDB', 'R', 'Java', 'TensorFlow', 'skLearn']",SC
+Maria,Thompson,Mid,maybe,Machine Learning,"['Spark', 'Python']",GA
+Daniel,Mcgrath,Mid,maybe,Statistics,"['R', 'Spark', 'SQL', 'Java']",WY
+Patrick,Fleming,Junior,maybe,Database,"['skLearn', 'Spark', 'TensorFlow']",WV
+John,Hogan,Mid,yes,Database,"['C++', 'skLearn', 'TensorFlow']",MT
+Michael,Hansen,Junior,maybe,Database,"['Spark', 'MongoDB', 'C++', 'Java']",ND
+David,Phelps,Senior,yes,Statistics,"['skLearn', 'MongoDB']",PA
+Matthew,Avila,Mid,yes,Database,"['R', 'TensorFlow', 'Spark', 'C++', 'Python', 'skLearn', 'MongoDB']",FL
+Cindy,Hall,Junior,yes,Database,"['R', 'MongoDB', 'Java', 'Spark']",VA
+Connor,Garcia,Senior,no,Database,"['skLearn', 'SQL', 'Python', 'R']",CT
+Teresa,Campbell,Senior,no,Data Visualization,"['SQL', 'Python', 'Java', 'R', 'skLearn', 'TensorFlow', 'C++']",AR
+Ashley,Smith,Senior,yes,Database,"['C++', 'Spark', 'R', 'Java', 'MongoDB', 'Python', 'skLearn', 'SQL']",NM
+Benjamin,Edwards,Mid,maybe,Data Visualization,"['TensorFlow', 'R', 'SQL']",WI
+Debra,Gibson,Mid,yes,Statistics,['MongoDB'],MS
+Amber,Moore,Junior,no,Database,"['TensorFlow', 'Spark', 'Python', 'C++', 'SQL', 'R']",VT
+Deanna,Diaz,Mid,no,Machine Learning,"['TensorFlow', 'skLearn', 'R', 'C++', 'SQL', 'Spark', 'Python']",AK
+Lucas,Williams,Junior,yes,Database,"['Java', 'skLearn', 'TensorFlow', 'SQL']",SD
+Emily,Johnston,Mid,yes,Database,"['R', 'C++', 'Spark']",NY
+Jill,Cox,Junior,no,Data Visualization,"['Java', 'TensorFlow', 'skLearn', 'R', 'Spark', 'C++', 'SQL', 'MongoDB', 'Python']",NV
+Olivia,Montgomery,Mid,yes,Database,"['R', 'skLearn']",SC
+Stephanie,Peters,Senior,yes,Machine Learning,"['SQL', 'C++', 'Python', 'TensorFlow', 'Java', 'MongoDB', 'skLearn', 'R']",AL
+William,Jackson,Senior,yes,Statistics,"['MongoDB', 'TensorFlow', 'R']",NV
+Christy,Robertson,Senior,maybe,Database,['C++'],MT
+Carolyn,Stephens,Junior,yes,Data Visualization,"['SQL', 'MongoDB']",MD
+Joshua,Hall,Senior,no,Data Visualization,"['SQL', 'Python', 'Spark', 'MongoDB', 'C++']",MT
+Tracy,Brooks,Mid,no,Database,"['Spark', 'Java']",NE
+Kristy,Foster,Mid,yes,Data Visualization,"['R', 'SQL', 'Python', 'TensorFlow', 'C++', 'MongoDB', 'Java', 'Spark', 'skLearn']",OH
+Victoria,Clark,Junior,maybe,Database,"['skLearn', 'Spark', 'TensorFlow', 'SQL', 'R']",IA
+Dale,Herrera,Junior,no,Data Visualization,"['Spark', 'TensorFlow', 'C++', 'skLearn', 'Java']",MA
+Chris,Trujillo,Senior,maybe,Data Visualization,"['C++', 'skLearn', 'SQL']",NH
+Tina,Jones,Junior,no,Machine Learning,"['C++', 'Python', 'TensorFlow', 'R', 'Spark', 'skLearn', 'Java']",ID
+Kelly,Christensen,Mid,no,Machine Learning,"['SQL', 'TensorFlow', 'MongoDB', 'R', 'Spark', 'C++', 'skLearn']",CA
+Elizabeth,Moore,Senior,maybe,Statistics,"['SQL', 'Python', 'Spark', 'C++', 'Java', 'R', 'MongoDB', 'skLearn']",MD
+Corey,Moody,Senior,no,Data Visualization,"['Spark', 'MongoDB', 'R', 'SQL']",MI
+Rachel,Davis,Junior,yes,Database,"['skLearn', 'Python', 'MongoDB', 'Spark']",MN
+Jennifer,Pratt,Senior,yes,Machine Learning,"['R', 'skLearn', 'Python', 'Spark', 'MongoDB', 'C++']",KS
+Scott,Taylor,Senior,yes,Database,"['Spark', 'TensorFlow', 'Java', 'MongoDB']",OR
+Matthew,Cobb,Senior,maybe,Data Visualization,"['SQL', 'R', 'TensorFlow', 'Spark', 'Java', 'C++', 'skLearn', 'Python', 'MongoDB']",NV
+Anthony,Bradley,Mid,no,Machine Learning,"['R', 'C++', 'Java', 'Spark', 'TensorFlow', 'Python']",MA
+Michael,Farrell,Junior,yes,Data Visualization,"['Spark', 'Python', 'SQL', 'TensorFlow', 'Java', 'MongoDB', 'C++', 'skLearn']",NE
+Andrew,Fleming,Mid,maybe,Statistics,['Spark'],CT
+Mary,Hall,Mid,yes,Statistics,['MongoDB'],GA
+Catherine,Hunt,Mid,maybe,Machine Learning,['Java'],NV
+James,Solomon,Mid,no,Statistics,['Python'],DE
+Carl,Chambers,Junior,no,Data Visualization,"['TensorFlow', 'Python']",NH
+Veronica,Cardenas,Mid,yes,Machine Learning,"['Spark', 'TensorFlow']",MO
+Ian,Fox,Mid,maybe,Data Visualization,"['skLearn', 'Python', 'R', 'Spark', 'TensorFlow', 'MongoDB']",HI
+Michael,Morris,Senior,no,Database,"['C++', 'Spark', 'SQL', 'Java', 'skLearn']",MA
+April,Miller,Mid,maybe,Database,"['Python', 'skLearn', 'Spark', 'MongoDB']",FL
+Breanna,Joyce,Junior,yes,Machine Learning,"['skLearn', 'MongoDB', 'R', 'Java']",MT
+Christine,Morgan,Senior,no,Machine Learning,['skLearn'],SC
+Samuel,Ramirez,Junior,yes,Statistics,"['R', 'Python']",OH
+Cassandra,Becker,Senior,yes,Database,"['Spark', 'TensorFlow', 'C++', 'SQL', 'Python', 'MongoDB', 'skLearn']",ME
+Emily,Potter,Senior,maybe,Machine Learning,"['SQL', 'Spark', 'Python', 'MongoDB', 'C++', 'TensorFlow', 'skLearn', 'R']",CT
+Dominic,Hunt,Senior,maybe,Statistics,"['skLearn', 'SQL', 'Python', 'Java', 'R', 'MongoDB', 'C++', 'TensorFlow']",WV
+Anthony,Armstrong,Junior,maybe,Database,"['Spark', 'SQL']",NM
+Jennifer,Brewer,Senior,maybe,Database,"['TensorFlow', 'C++', 'Python', 'Java', 'Spark', 'skLearn', 'MongoDB']",IA
+Samantha,Johnson,Junior,maybe,Machine Learning,"['C++', 'Spark', 'R']",CA
+Lisa,Jackson,Junior,maybe,Data Visualization,"['C++', 'Python', 'SQL', 'skLearn', 'R', 'TensorFlow', 'Java']",MN
+Stephanie,Morton,Mid,no,Machine Learning,"['R', 'skLearn', 'MongoDB', 'TensorFlow', 'Python', 'SQL', 'Java', 'Spark', 'C++']",AZ
+Yolanda,Hernandez,Senior,maybe,Machine Learning,"['SQL', 'C++']",ND
+Peter,Torres,Mid,yes,Machine Learning,"['R', 'MongoDB', 'SQL', 'TensorFlow', 'Java', 'Spark', 'skLearn', 'Python', 'C++']",WY
+Elizabeth,Rogers,Senior,maybe,Database,"['skLearn', 'TensorFlow', 'Spark']",KS
+Sharon,Allison,Mid,maybe,Statistics,"['MongoDB', 'Python', 'R', 'SQL']",WY
+Cody,Banks,Junior,yes,Machine Learning,"['SQL', 'TensorFlow', 'Python', 'Spark', 'C++', 'MongoDB', 'R', 'skLearn']",MN
+Melissa,Bishop,Mid,no,Database,"['TensorFlow', 'C++', 'skLearn', 'MongoDB']",AL
+Rebecca,Ortiz,Junior,maybe,Data Visualization,"['Spark', 'Python', 'SQL', 'TensorFlow', 'C++', 'skLearn']",ND
+Mr.,Gregory,Senior,yes,Data Visualization,"['Python', 'Spark', 'R', 'C++', 'SQL', 'MongoDB', 'skLearn']",MO
+Jillian,Hunter,Mid,yes,Data Visualization,"['Spark', 'Python', 'SQL']",MD
+Rachel,Parks,Junior,no,Database,"['R', 'C++', 'Spark', 'Java']",MI
+Joseph,Davis,Mid,no,Data Visualization,"['SQL', 'skLearn', 'Python', 'TensorFlow', 'C++']",SC
+Haley,Miller,Senior,maybe,Data Visualization,"['TensorFlow', 'SQL', 'Java', 'Spark', 'skLearn', 'Python', 'C++', 'MongoDB']",ND
+Mary,Garcia,Senior,no,Machine Learning,"['Java', 'C++', 'Spark', 'Python', 'TensorFlow', 'skLearn', 'R', 'MongoDB']",NM
+Jennifer,Torres,Senior,no,Data Visualization,"['SQL', 'Java', 'C++']",OK
+Hayley,Howell,Junior,yes,Database,"['MongoDB', 'skLearn', 'TensorFlow', 'SQL', 'Python']",MT
+Ruth,Lang,Mid,maybe,Machine Learning,"['Python', 'Java', 'Spark', 'R', 'skLearn', 'C++', 'MongoDB', 'SQL']",OK
+Carla,Morris,Senior,maybe,Machine Learning,"['C++', 'skLearn']",CO
+Brenda,Kennedy,Senior,no,Machine Learning,['TensorFlow'],NM
+Amy,Campbell,Junior,yes,Database,['C++'],MO
+Frank,Jackson,Mid,no,Data Visualization,"['C++', 'Spark', 'Python', 'TensorFlow', 'Java', 'SQL', 'skLearn']",RI
+Dr.,Michael,Mid,yes,Database,"['TensorFlow', 'R', 'Spark', 'skLearn', 'C++', 'MongoDB', 'Python', 'SQL', 'Java']",OR
+John,Hernandez,Mid,no,Database,"['Python', 'Java', 'C++', 'Spark', 'MongoDB', 'R', 'skLearn', 'TensorFlow']",NM
+David,Sanchez,Mid,yes,Machine Learning,['Spark'],MN
+Misty,Schneider,Junior,no,Machine Learning,"['SQL', 'R', 'Java', 'Python', 'TensorFlow', 'C++']",MA
+Susan,Gilbert,Mid,yes,Statistics,['MongoDB'],AZ
+Julie,Miller,Mid,yes,Database,"['Python', 'SQL', 'TensorFlow', 'Spark', 'MongoDB', 'skLearn', 'C++']",CT
+Maria,Brewer,Senior,yes,Database,"['MongoDB', 'Python', 'R']",WY
+Daniel,Oliver,Junior,yes,Database,"['TensorFlow', 'SQL', 'R', 'skLearn', 'Spark', 'Java', 'MongoDB']",PA
+Michael,Williams,Junior,maybe,Data Visualization,"['Python', 'SQL', 'skLearn', 'Java', 'Spark', 'C++']",MN
+Angela,Hunt,Junior,yes,Database,['SQL'],NE
+Paula,Curtis,Mid,no,Statistics,"['SQL', 'Python', 'TensorFlow', 'Spark', 'skLearn', 'C++', 'Java', 'MongoDB', 'R']",ND
+Jennifer,Becker,Junior,yes,Machine Learning,"['TensorFlow', 'MongoDB', 'skLearn', 'R', 'Java', 'Spark']",GA
+Keith,Hall,Mid,maybe,Statistics,"['C++', 'SQL', 'Spark']",GA
+Meghan,Johnson,Senior,maybe,Data Visualization,"['C++', 'R', 'TensorFlow', 'Java', 'Python', 'SQL', 'MongoDB', 'skLearn']",MO
+Jared,Dalton,Senior,no,Statistics,"['Python', 'C++', 'SQL', 'R', 'MongoDB', 'skLearn', 'Spark', 'TensorFlow']",MT
+Todd,Cabrera,Junior,yes,Statistics,"['Spark', 'SQL']",NY
+Timothy,Perez,Mid,maybe,Statistics,"['skLearn', 'Python', 'TensorFlow', 'R', 'Spark', 'MongoDB', 'Java', 'SQL', 'C++']",IL
+Peter,Burke,Junior,no,Data Visualization,"['TensorFlow', 'Java', 'Spark', 'C++', 'skLearn', 'R', 'SQL', 'MongoDB']",SD
+Justin,Curry,Junior,no,Database,"['C++', 'R', 'Python', 'Spark', 'TensorFlow', 'Java', 'SQL', 'MongoDB', 'skLearn']",OK
+William,Hicks,Junior,yes,Statistics,"['C++', 'Java', 'MongoDB', 'Python', 'Spark', 'skLearn', 'TensorFlow']",MT
+Timothy,Kramer,Mid,no,Statistics,"['Spark', 'Python']",AL
+Hannah,Garner,Senior,no,Data Visualization,"['R', 'MongoDB', 'SQL', 'skLearn']",GA
+Alexander,Terry,Senior,no,Database,"['TensorFlow', 'R', 'MongoDB', 'skLearn', 'C++']",CO
+Bruce,Fisher,Mid,maybe,Database,"['MongoDB', 'Spark', 'skLearn', 'Python', 'TensorFlow', 'SQL']",ME
+Amy,Crawford,Senior,yes,Database,['C++'],AZ
+Nicole,Owen,Senior,maybe,Statistics,"['Spark', 'skLearn', 'Python', 'R']",WI
+Matthew,Dixon,Junior,maybe,Statistics,"['MongoDB', 'Spark', 'TensorFlow']",OR
+Robert,Gray,Junior,yes,Database,['Spark'],NE
+Randy,Price,Junior,no,Statistics,"['skLearn', 'TensorFlow', 'MongoDB', 'Spark', 'Python']",PA
+Ashley,Miller,Senior,maybe,Statistics,['R'],KY
+Christine,Rodriguez,Senior,yes,Data Visualization,"['R', 'Spark', 'MongoDB', 'skLearn', 'TensorFlow']",MN
+Danielle,Weiss,Junior,no,Data Visualization,"['C++', 'MongoDB', 'Java', 'Spark', 'Python', 'skLearn', 'SQL']",CA
+Tammy,Carlson,Junior,maybe,Statistics,"['C++', 'R', 'MongoDB', 'SQL', 'TensorFlow', 'skLearn', 'Spark']",OH
+Jordan,Gamble,Junior,maybe,Machine Learning,"['Spark', 'skLearn', 'Java']",IN
+Jenny,Ramirez,Junior,maybe,Database,"['TensorFlow', 'skLearn', 'MongoDB', 'Python', 'R', 'SQL', 'Java', 'C++']",AL
+Joyce,Salas,Senior,maybe,Statistics,"['MongoDB', 'C++', 'SQL', 'TensorFlow', 'Python', 'R', 'Java', 'Spark']",MO
+Bradley,Foster,Mid,maybe,Machine Learning,['Python'],AK
+Suzanne,Allen,Senior,no,Data Visualization,['SQL'],IL
+Jody,Sampson,Mid,maybe,Database,"['Python', 'MongoDB', 'SQL', 'TensorFlow', 'C++', 'skLearn', 'Spark', 'Java']",PA
+Joan,James,Junior,maybe,Database,"['skLearn', 'R', 'TensorFlow']",AZ
+Joshua,Bowers,Mid,yes,Database,['C++'],WV
+Jared,Griffith,Mid,maybe,Statistics,"['skLearn', 'MongoDB', 'C++', 'SQL', 'Java', 'TensorFlow', 'Python', 'Spark', 'R']",IN
+Julia,Ferrell,Mid,yes,Database,"['Spark', 'SQL', 'C++', 'Java', 'R', 'TensorFlow', 'skLearn']",VA
+Carolyn,Carey,Junior,maybe,Database,"['skLearn', 'Java', 'Python']",MO
+Colin,Gomez,Senior,yes,Machine Learning,"['Spark', 'Python', 'C++', 'R', 'TensorFlow']",OK
+James,Shaw,Junior,no,Database,['skLearn'],KS
+Beverly,Schneider,Mid,maybe,Statistics,"['MongoDB', 'Python', 'Spark', 'R', 'Java', 'skLearn', 'SQL', 'C++']",MA
+John,Henson,Senior,yes,Statistics,"['C++', 'SQL', 'Java', 'Spark', 'R', 'Python', 'TensorFlow']",MS
+Joshua,Rose,Mid,yes,Statistics,"['Python', 'TensorFlow', 'Spark', 'skLearn', 'MongoDB']",WI
+Rebecca,Adams,Senior,no,Database,"['C++', 'R', 'TensorFlow', 'Java', 'MongoDB', 'skLearn', 'SQL']",MA
+Miranda,Mitchell,Mid,maybe,Statistics,"['C++', 'R', 'Java', 'Python', 'SQL', 'Spark', 'MongoDB', 'skLearn', 'TensorFlow']",WY
+Katherine,Bradshaw,Mid,maybe,Statistics,"['Java', 'R', 'skLearn', 'C++', 'MongoDB', 'Python']",AK
+Elizabeth,Silva,Mid,maybe,Data Visualization,"['Java', 'TensorFlow', 'C++', 'Python', 'Spark', 'R', 'SQL', 'MongoDB']",ND
+Jordan,Martinez,Junior,maybe,Database,"['Python', 'SQL', 'MongoDB', 'R']",AL
+Travis,Willis,Mid,no,Database,"['SQL', 'MongoDB', 'Java', 'Python', 'skLearn']",WY
+Sherry,Kennedy,Mid,maybe,Machine Learning,"['R', 'skLearn', 'Java', 'TensorFlow', 'Python', 'MongoDB']",TX
+Mark,Hanson,Junior,yes,Database,"['Spark', 'skLearn', 'TensorFlow', 'R', 'SQL', 'C++', 'MongoDB']",NC
+Rodney,Rios,Senior,yes,Machine Learning,"['R', 'TensorFlow']",IA
+Miss,Kristine,Senior,maybe,Database,['Java'],KS
+Melinda,Ford,Junior,no,Machine Learning,['SQL'],WI
+Michael,Jones,Mid,yes,Machine Learning,"['Java', 'skLearn', 'Python', 'SQL', 'C++', 'MongoDB', 'R', 'TensorFlow', 'Spark']",NC
+Dr.,Gary,Senior,no,Machine Learning,"['Spark', 'R', 'MongoDB', 'TensorFlow', 'C++', 'Java']",MD
+Ann,Fisher,Junior,yes,Database,['Python'],NE
+Cheryl,Durham,Senior,yes,Machine Learning,"['Java', 'R', 'Python', 'MongoDB']",LA
+Jacob,Rosales,Mid,maybe,Statistics,"['MongoDB', 'Python']",WV
+Mrs.,Emily,Junior,yes,Data Visualization,"['MongoDB', 'skLearn']",MO
+Lori,Duncan,Senior,yes,Machine Learning,"['MongoDB', 'skLearn', 'SQL', 'Spark', 'C++', 'R', 'Python', 'TensorFlow', 'Java']",RI
+Paul,Frye,Junior,no,Statistics,"['C++', 'skLearn', 'Python', 'R', 'Spark', 'Java']",NJ
+Heather,Wells,Mid,no,Machine Learning,"['C++', 'R', 'Python', 'SQL', 'MongoDB', 'skLearn', 'TensorFlow', 'Spark']",IA
+Samantha,Williams,Junior,maybe,Database,"['SQL', 'MongoDB', 'R', 'Spark', 'skLearn', 'C++', 'Python', 'TensorFlow']",ME
+Dylan,Powers,Mid,no,Data Visualization,"['Python', 'R', 'SQL', 'TensorFlow', 'C++', 'MongoDB']",MO
+Stephen,Wright,Senior,no,Statistics,['Java'],MA
+Alexis,Stewart,Senior,maybe,Statistics,['Java'],OK
+Wesley,Ray,Junior,maybe,Database,"['skLearn', 'MongoDB', 'Java', 'Python']",MN
+Mary,Duncan,Junior,yes,Machine Learning,"['Spark', 'SQL']",WA
+Robert,Ellison,Junior,maybe,Machine Learning,"['Java', 'R', 'Python', 'skLearn', 'Spark', 'C++', 'SQL']",FL
+Andrew,Day,Junior,no,Machine Learning,"['Python', 'Spark', 'Java', 'TensorFlow', 'C++', 'MongoDB', 'SQL', 'R']",NV
+Andrew,King,Senior,maybe,Database,"['Spark', 'R', 'C++', 'MongoDB', 'Python', 'Java', 'skLearn', 'SQL', 'TensorFlow']",HI
+Katherine,Christian,Senior,no,Statistics,"['Spark', 'C++']",AK
+Joyce,Campbell,Senior,maybe,Statistics,"['Spark', 'R', 'SQL']",KY
+Haley,Green,Senior,no,Machine Learning,"['C++', 'R', 'Java', 'SQL', 'Python', 'Spark', 'TensorFlow', 'MongoDB', 'skLearn']",AL
+Justin,Smith,Mid,maybe,Database,['MongoDB'],HI
+Cody,Klein,Senior,maybe,Data Visualization,"['Java', 'Spark']",MS
+Melinda,Robinson,Junior,yes,Machine Learning,"['C++', 'MongoDB', 'Java', 'R', 'Spark']",VT
+Robert,Phelps,Mid,maybe,Data Visualization,"['Spark', 'SQL', 'Java', 'C++', 'R', 'MongoDB', 'TensorFlow', 'Python', 'skLearn']",NY
+Dominic,Rivera,Junior,no,Machine Learning,"['Python', 'skLearn', 'MongoDB', 'C++', 'SQL', 'TensorFlow', 'Spark']",WY
+Steven,Allen,Junior,no,Data Visualization,"['Java', 'Spark']",NH
+Lauren,Gomez,Junior,no,Database,"['TensorFlow', 'skLearn', 'Python']",IL
+Robert,Smith,Junior,yes,Database,"['SQL', 'MongoDB']",KS
+Joann,Jones,Mid,yes,Statistics,"['Spark', 'C++', 'SQL', 'TensorFlow', 'MongoDB', 'Java', 'skLearn']",FL
+Gloria,Martinez,Senior,no,Statistics,"['Python', 'Spark', 'skLearn', 'TensorFlow', 'R', 'Java']",RI
+Ashley,Chung,Mid,no,Statistics,"['SQL', 'Spark', 'Java', 'C++', 'TensorFlow', 'Python', 'R', 'MongoDB', 'skLearn']",NJ
+Victoria,Rodriguez,Mid,no,Database,"['Python', 'C++', 'MongoDB']",MD
+Nancy,Morton,Junior,yes,Data Visualization,"['Spark', 'Python', 'SQL', 'Java', 'skLearn', 'MongoDB', 'TensorFlow']",MS
+Katelyn,Hamilton,Senior,yes,Statistics,"['Python', 'SQL', 'R', 'MongoDB', 'TensorFlow', 'Spark', 'C++', 'skLearn']",LA
+Brett,Olson,Junior,no,Statistics,"['skLearn', 'Python', 'Spark', 'C++', 'R', 'TensorFlow']",MS
+Laurie,Harris,Mid,maybe,Machine Learning,"['Java', 'SQL', 'Spark', 'MongoDB', 'C++', 'skLearn']",UT
+Danielle,Chapman,Junior,no,Machine Learning,"['C++', 'Java', 'SQL', 'skLearn', 'Python']",IL
+Jessica,Johnson,Senior,no,Statistics,"['R', 'Python']",AZ
+Paige,Davis,Senior,no,Statistics,"['TensorFlow', 'R', 'Python', 'MongoDB']",NM
+Felicia,Mills,Junior,no,Statistics,['Spark'],OH
+Glenn,Stewart,Mid,no,Data Visualization,"['TensorFlow', 'Java', 'Spark', 'SQL', 'R', 'skLearn', 'MongoDB', 'Python', 'C++']",NC
+Theresa,Brown,Mid,no,Statistics,"['skLearn', 'C++']",OH
+Alyssa,Sandoval,Junior,no,Statistics,"['MongoDB', 'R', 'skLearn', 'Python']",OK
+Aaron,Williams,Senior,yes,Database,"['MongoDB', 'TensorFlow', 'Python']",MS
+Thomas,Montgomery,Mid,yes,Machine Learning,"['SQL', 'MongoDB', 'C++', 'Spark', 'TensorFlow', 'R', 'skLearn', 'Java']",PA
+Lindsey,Colon,Senior,maybe,Statistics,"['SQL', 'R', 'MongoDB', 'skLearn', 'Python', 'Java', 'C++', 'Spark', 'TensorFlow']",WI
+John,Schneider,Mid,yes,Database,"['MongoDB', 'TensorFlow', 'C++', 'R', 'skLearn']",HI
+Nicole,Lewis,Junior,maybe,Statistics,"['Spark', 'Python', 'TensorFlow', 'C++', 'SQL']",AZ
+Michelle,Dorsey,Junior,maybe,Statistics,"['SQL', 'skLearn', 'TensorFlow', 'R', 'C++', 'Python', 'Spark', 'MongoDB']",OK
+Carlos,Valdez,Mid,maybe,Data Visualization,"['R', 'MongoDB', 'Spark', 'Python']",RI
+Jennifer,Kelly,Mid,no,Database,"['Spark', 'Python', 'skLearn', 'SQL', 'Java']",MO
+Janice,Marshall,Mid,yes,Data Visualization,"['skLearn', 'TensorFlow', 'SQL', 'MongoDB', 'Java', 'Spark', 'C++']",CO
+Kelly,Henry,Senior,yes,Database,"['TensorFlow', 'MongoDB', 'Spark', 'SQL', 'Python']",ID
+Paul,Cruz,Mid,no,Machine Learning,['R'],TX
+Amanda,Howell,Mid,maybe,Database,"['Spark', 'MongoDB', 'R', 'TensorFlow', 'skLearn', 'Python', 'SQL']",MS
+Adrian,Solis,Junior,no,Database,"['skLearn', 'MongoDB', 'C++', 'TensorFlow']",NJ
+Craig,Jones,Junior,yes,Database,"['Spark', 'TensorFlow', 'skLearn', 'R', 'SQL']",MA
+James,Ortiz,Junior,yes,Statistics,['MongoDB'],OR
+Tracy,Alexander,Senior,no,Statistics,"['C++', 'Python', 'MongoDB', 'skLearn', 'Java', 'R']",MN
+Scott,Johnson,Senior,yes,Statistics,"['MongoDB', 'skLearn', 'Python', 'TensorFlow', 'SQL']",HI
+Jon,Haney,Mid,no,Machine Learning,"['R', 'MongoDB', 'Python', 'skLearn', 'TensorFlow', 'SQL', 'Spark']",WA
+Rhonda,Bass,Senior,no,Machine Learning,"['Java', 'skLearn', 'TensorFlow', 'C++']",NM
+Paul,Wallace,Junior,no,Machine Learning,"['skLearn', 'Spark', 'MongoDB', 'R']",OR
+Robert,Lewis,Mid,yes,Machine Learning,"['MongoDB', 'Spark', 'Java', 'TensorFlow', 'Python', 'skLearn', 'C++', 'R', 'SQL']",VA
+Mark,Beck,Mid,yes,Statistics,"['Python', 'Java', 'R', 'C++']",SC
+Larry,Marshall,Senior,no,Statistics,['SQL'],OR
+Catherine,Durham,Senior,maybe,Database,"['SQL', 'Python']",TX
+Kelly,Ortiz,Mid,maybe,Machine Learning,"['skLearn', 'Python', 'Java']",AK
+Madison,Stout,Mid,no,Data Visualization,['skLearn'],FL
+Patrick,Wise,Senior,no,Data Visualization,"['C++', 'Python', 'skLearn', 'TensorFlow', 'Java', 'R', 'Spark', 'SQL', 'MongoDB']",OK
+Bryan,Robbins,Senior,yes,Machine Learning,"['R', 'Spark', 'C++', 'SQL', 'MongoDB']",WV
+Carrie,Lopez,Mid,yes,Statistics,"['Spark', 'SQL', 'MongoDB']",SC
+Kenneth,Ray,Mid,no,Statistics,"['R', 'TensorFlow', 'MongoDB', 'C++']",MS
+Thomas,Romero,Junior,maybe,Database,"['TensorFlow', 'skLearn']",CO
+Lisa,Hall,Junior,maybe,Machine Learning,['Java'],HI
+Keith,Clark,Junior,yes,Machine Learning,"['MongoDB', 'skLearn', 'Python', 'Java', 'Spark', 'C++']",OH
+Kimberly,Stout,Mid,yes,Statistics,"['TensorFlow', 'C++', 'Java', 'R']",CA
+William,Santos,Junior,maybe,Machine Learning,"['SQL', 'Spark', 'C++', 'Java', 'R']",CT
+Elizabeth,Jones,Senior,yes,Statistics,"['Java', 'TensorFlow', 'Python', 'Spark', 'SQL', 'C++', 'R']",WA
+Mary,Myers,Senior,no,Database,['MongoDB'],WA
+Donna,Simpson,Mid,no,Database,"['SQL', 'R', 'Spark', 'MongoDB', 'C++', 'Java', 'Python']",SC
+Jacob,White,Mid,no,Database,"['Java', 'MongoDB', 'TensorFlow', 'Python', 'R', 'SQL']",CT
+Ryan,Rivera,Senior,maybe,Data Visualization,"['R', 'TensorFlow', 'Java', 'Spark', 'MongoDB']",CA
+Michael,Soto,Junior,no,Statistics,"['Spark', 'TensorFlow', 'SQL', 'Python', 'Java', 'C++', 'skLearn']",HI
+Jill,Lewis,Mid,maybe,Machine Learning,"['TensorFlow', 'MongoDB', 'C++', 'Java', 'R']",OK
+Sarah,Maxwell,Senior,no,Database,"['Java', 'SQL', 'R', 'Python', 'TensorFlow', 'MongoDB', 'skLearn', 'C++']",KY
+Thomas,Johnson,Junior,maybe,Database,['Spark'],HI
+Samantha,Miller,Senior,maybe,Database,"['Java', 'R', 'SQL', 'MongoDB', 'C++', 'skLearn']",NM
+Wesley,Jackson,Senior,maybe,Database,"['C++', 'Python', 'Spark', 'TensorFlow', 'Java', 'R', 'SQL']",MD
+Christopher,Cook,Mid,no,Data Visualization,"['R', 'Java', 'skLearn', 'MongoDB', 'Python', 'Spark', 'TensorFlow', 'SQL']",MS
+Sandra,Blevins,Mid,maybe,Statistics,"['Python', 'R', 'TensorFlow']",AR
+Kristin,Gomez,Mid,yes,Data Visualization,"['Spark', 'Java', 'skLearn', 'MongoDB', 'TensorFlow', 'Python', 'R', 'C++', 'SQL']",ID
+Heather,Maxwell,Senior,maybe,Statistics,"['Python', 'skLearn', 'R', 'Spark', 'TensorFlow', 'SQL']",MT
+Sara,Mclean,Senior,maybe,Database,"['TensorFlow', 'Python', 'C++', 'MongoDB']",WV
+Brittany,Nelson,Senior,yes,Statistics,"['Java', 'TensorFlow', 'skLearn', 'MongoDB', 'Spark', 'SQL', 'C++']",AK
+Tracey,Patterson,Senior,yes,Database,"['R', 'Spark', 'Python', 'SQL', 'Java', 'TensorFlow', 'C++', 'MongoDB']",WV
+Brian,Wilkerson,Mid,no,Machine Learning,"['skLearn', 'Spark', 'SQL', 'C++', 'TensorFlow']",MT
+Jessica,Clark,Junior,maybe,Data Visualization,"['TensorFlow', 'Python', 'SQL', 'MongoDB', 'C++', 'R', 'Java']",IA
+Joseph,Sullivan,Junior,maybe,Machine Learning,"['MongoDB', 'Java']",UT
+Beth,Wong,Junior,yes,Statistics,['SQL'],ND
+Teresa,Smith,Mid,no,Data Visualization,"['Java', 'R', 'skLearn', 'C++', 'TensorFlow', 'SQL', 'Python', 'Spark', 'MongoDB']",OR
+Nicole,Murillo,Junior,yes,Database,"['Python', 'R', 'MongoDB', 'TensorFlow', 'Java', 'SQL', 'C++']",KS
+Michael,Perry,Junior,maybe,Data Visualization,"['SQL', 'Python', 'TensorFlow', 'MongoDB', 'C++', 'skLearn', 'Spark', 'R']",NH
+Tyler,Myers,Junior,maybe,Data Visualization,['skLearn'],WV
+Zachary,Carroll,Junior,no,Database,"['SQL', 'TensorFlow', 'Python', 'R', 'Java', 'MongoDB', 'C++']",TN
+Joel,Ferguson,Junior,yes,Statistics,"['R', 'SQL', 'MongoDB', 'Spark', 'Java', 'C++', 'Python', 'skLearn', 'TensorFlow']",MI
+Brian,Rodgers,Mid,yes,Data Visualization,"['R', 'Python', 'skLearn', 'TensorFlow', 'SQL']",ID
+Kathryn,Robinson,Senior,yes,Machine Learning,"['C++', 'R', 'SQL', 'TensorFlow', 'skLearn', 'Python', 'Spark', 'Java', 'MongoDB']",GA
+Lindsey,Mendoza,Mid,no,Machine Learning,"['Python', 'MongoDB']",CT
+Alejandro,Navarro,Senior,no,Statistics,"['skLearn', 'Python', 'Spark', 'Java']",CT
+Janet,Cunningham,Mid,yes,Statistics,"['Java', 'skLearn', 'TensorFlow', 'Python', 'Spark', 'MongoDB', 'R', 'SQL']",DE
+Gina,Smith,Senior,no,Data Visualization,"['SQL', 'MongoDB', 'skLearn', 'TensorFlow', 'Spark', 'Java', 'C++', 'R']",NC
+Brandy,Baker,Junior,no,Data Visualization,"['SQL', 'TensorFlow', 'Spark', 'Java']",OH
+Rebecca,Merritt,Senior,no,Database,"['R', 'Spark', 'Python', 'Java']",MI
+Stephen,Cain,Senior,yes,Database,"['Spark', 'skLearn', 'MongoDB', 'R', 'Python', 'TensorFlow']",MT
+Scott,Lopez,Junior,maybe,Data Visualization,"['Python', 'skLearn', 'Spark', 'SQL', 'R', 'TensorFlow', 'Java', 'C++', 'MongoDB']",NY
+Danielle,Williams,Senior,no,Database,"['SQL', 'R', 'C++', 'skLearn', 'Java', 'Python', 'MongoDB', 'Spark', 'TensorFlow']",IA
+Carl,Jones,Junior,no,Statistics,"['Python', 'skLearn', 'R']",WA
+Jodi,Mcintyre,Mid,yes,Database,"['SQL', 'Spark', 'skLearn', 'C++']",LA
+Evelyn,Shaw,Junior,maybe,Database,['skLearn'],LA
+Erika,Martinez,Mid,no,Data Visualization,"['SQL', 'R', 'C++']",MO
+Steven,Turner,Senior,yes,Database,"['MongoDB', 'Spark', 'Java', 'SQL', 'Python', 'C++', 'skLearn']",DE
+Dean,Payne,Senior,yes,Database,['MongoDB'],OH
+Mitchell,Barry,Senior,yes,Database,"['Java', 'SQL', 'C++', 'Python']",CT
+Jennifer,Dixon,Junior,no,Data Visualization,['Java'],KS
+Stephen,Davis,Senior,no,Data Visualization,"['Spark', 'SQL', 'R', 'MongoDB']",NJ
+Julian,Johnson,Mid,no,Machine Learning,"['TensorFlow', 'Spark', 'MongoDB', 'R', 'C++', 'skLearn', 'SQL', 'Python']",WA
+Lisa,Conley,Mid,maybe,Statistics,"['R', 'Python', 'skLearn', 'SQL', 'MongoDB', 'Spark', 'TensorFlow', 'Java', 'C++']",DE
+Adam,Anderson,Junior,yes,Statistics,['R'],NC
+Daniel,Escobar,Junior,no,Statistics,"['skLearn', 'C++', 'Python', 'R', 'SQL']",ME
+John,Boyd,Senior,no,Database,"['MongoDB', 'SQL', 'Java', 'skLearn', 'Python', 'TensorFlow', 'R', 'Spark', 'C++']",GA
+Travis,Davies,Mid,maybe,Machine Learning,['MongoDB'],TX
+Meghan,Roberts,Senior,yes,Database,"['SQL', 'MongoDB', 'Java', 'TensorFlow', 'C++', 'R']",RI
+Cindy,Smith,Mid,yes,Statistics,"['SQL', 'MongoDB', 'R', 'TensorFlow', 'Java']",NE
+Michael,Davis,Mid,yes,Machine Learning,"['SQL', 'Spark', 'Java', 'C++', 'TensorFlow', 'MongoDB', 'R']",GA
+Tom,Parker,Senior,maybe,Database,"['SQL', 'TensorFlow', 'Java', 'Python']",NM
+Teresa,Mendez,Junior,no,Database,"['skLearn', 'TensorFlow', 'Python', 'Java', 'C++']",NJ
+Sandra,Morales,Mid,no,Statistics,"['Python', 'skLearn', 'Spark', 'MongoDB', 'TensorFlow']",NV
+Jason,Parsons,Senior,yes,Machine Learning,"['C++', 'SQL', 'R', 'Java', 'Spark', 'MongoDB', 'TensorFlow']",NM
+David,Roberts,Senior,no,Machine Learning,"['Python', 'SQL', 'TensorFlow', 'skLearn', 'MongoDB', 'Java', 'R', 'C++']",AL
+Paul,White,Mid,no,Database,"['TensorFlow', 'R', 'Python']",TN
+Nicole,Mcconnell,Mid,yes,Database,"['R', 'skLearn', 'MongoDB', 'Spark']",ID
+Austin,Greene,Junior,yes,Data Visualization,['TensorFlow'],IA
+Emily,Adams,Mid,maybe,Database,['SQL'],ME
+Alyssa,Wells,Junior,yes,Statistics,"['R', 'Spark', 'MongoDB', 'SQL', 'TensorFlow', 'C++', 'Java']",AK
+Megan,Terry,Senior,no,Machine Learning,"['C++', 'TensorFlow', 'R', 'MongoDB', 'Java']",WY
+Jennifer,Clark,Senior,no,Statistics,"['skLearn', 'Python']",LA
+David,Cervantes,Senior,maybe,Machine Learning,"['Python', 'MongoDB', 'Java', 'TensorFlow', 'SQL', 'skLearn']",OK
+Jennifer,Brewer,Senior,yes,Data Visualization,"['SQL', 'Spark', 'MongoDB', 'Java', 'skLearn', 'Python', 'C++', 'TensorFlow']",NE
+Michelle,Tapia,Senior,no,Machine Learning,"['MongoDB', 'Python', 'R', 'SQL']",IL
+Cassidy,Hill,Mid,no,Machine Learning,"['SQL', 'Java', 'skLearn', 'Spark', 'TensorFlow', 'R', 'Python', 'C++']",IA
+David,Burns,Senior,no,Machine Learning,"['SQL', 'Java', 'C++', 'TensorFlow', 'skLearn', 'MongoDB']",NV
+Deanna,Mason,Junior,no,Data Visualization,['Spark'],ID
+Jessica,Johnson,Senior,yes,Database,['SQL'],AR
+Rachel,Mills,Junior,yes,Data Visualization,"['Java', 'Spark', 'TensorFlow', 'SQL', 'R', 'C++', 'MongoDB', 'skLearn', 'Python']",MI
+David,Miller,Senior,no,Statistics,"['MongoDB', 'TensorFlow', 'Java', 'C++', 'R', 'SQL', 'Spark']",MN
+Michael,Young,Junior,no,Data Visualization,"['skLearn', 'TensorFlow', 'Spark', 'C++', 'Java']",WA
+Steven,Nichols,Mid,maybe,Database,"['SQL', 'MongoDB', 'C++', 'skLearn', 'Spark', 'Python', 'Java', 'R', 'TensorFlow']",WV
+John,Walker,Senior,yes,Database,"['Spark', 'R', 'TensorFlow', 'skLearn', 'SQL', 'Python']",MN
+James,Steele,Junior,yes,Database,"['MongoDB', 'R', 'Spark', 'Python', 'TensorFlow', 'SQL', 'C++']",MN
+William,Myers,Senior,yes,Machine Learning,"['Python', 'TensorFlow', 'SQL', 'MongoDB', 'Spark', 'R', 'Java', 'skLearn']",AK
+Haley,Reed,Junior,no,Statistics,"['R', 'SQL', 'Java', 'skLearn', 'Python']",WY
+Adam,Middleton,Senior,no,Database,"['SQL', 'Python', 'MongoDB', 'Java', 'skLearn']",OK
+Jeremiah,Clark,Senior,maybe,Machine Learning,"['MongoDB', 'R', 'C++', 'Spark', 'Java', 'skLearn', 'TensorFlow']",NM
+Valerie,Martin,Senior,yes,Database,"['C++', 'Python']",MT
+Sophia,Duncan,Senior,no,Statistics,"['TensorFlow', 'MongoDB', 'skLearn']",OR
+Sarah,Harvey,Junior,no,Database,"['Java', 'Python', 'C++']",OR
+Laura,Roberson,Junior,maybe,Statistics,"['R', 'Spark', 'Java', 'C++', 'SQL']",MA
+Sara,Perkins,Junior,maybe,Database,"['MongoDB', 'Java', 'Spark', 'Python', 'TensorFlow']",FL
+Elizabeth,Mercado,Junior,maybe,Machine Learning,"['MongoDB', 'SQL', 'Spark', 'TensorFlow', 'C++', 'skLearn', 'Python', 'Java']",MI
+David,Morgan,Mid,maybe,Data Visualization,"['C++', 'TensorFlow', 'Java']",GA
+Charlene,Kelly,Mid,maybe,Statistics,"['Java', 'TensorFlow', 'skLearn']",OR
+Edward,White,Junior,no,Database,"['Python', 'Java', 'skLearn', 'C++', 'Spark', 'MongoDB', 'TensorFlow', 'SQL']",IA
+Jaclyn,Berger,Senior,maybe,Machine Learning,"['MongoDB', 'Python']",IL
+Karen,Steele,Junior,yes,Machine Learning,"['Spark', 'R', 'Python', 'Java', 'skLearn', 'C++']",NJ
+David,Lucero,Senior,no,Machine Learning,"['C++', 'Java', 'Spark', 'MongoDB', 'Python', 'TensorFlow', 'R']",AL
+Philip,Walters,Junior,maybe,Machine Learning,"['SQL', 'C++', 'Spark', 'Python', 'R', 'MongoDB', 'Java', 'TensorFlow', 'skLearn']",NE
+Eric,Miller,Mid,maybe,Statistics,"['C++', 'Python']",WI
+Jill,Harmon,Mid,no,Database,"['skLearn', 'Java', 'R', 'Python', 'SQL', 'Spark', 'C++']",NH
+Mark,Mcknight,Senior,yes,Machine Learning,"['R', 'Spark', 'SQL', 'TensorFlow', 'Python', 'MongoDB', 'C++', 'skLearn', 'Java']",AK
+Jennifer,Harris,Senior,yes,Database,"['SQL', 'C++', 'Java', 'Spark', 'Python', 'R', 'TensorFlow', 'skLearn', 'MongoDB']",AL
+Ms.,Tracy,Mid,maybe,Data Visualization,"['C++', 'Python', 'MongoDB']",NM
+Brandon,Moore,Mid,no,Machine Learning,"['Java', 'R', 'C++', 'skLearn']",MO
+Robert,Baker,Mid,yes,Machine Learning,"['skLearn', 'Spark', 'C++', 'Java']",WA
+Lucas,Brock,Junior,no,Machine Learning,['C++'],AR
+Kimberly,Richardson,Junior,maybe,Machine Learning,"['Python', 'Java']",IA
+Karla,Salazar,Senior,yes,Data Visualization,"['MongoDB', 'Python', 'Java', 'skLearn']",NE
+Mrs.,Debra,Senior,no,Statistics,"['skLearn', 'R', 'MongoDB', 'Spark', 'TensorFlow', 'Java', 'SQL', 'Python', 'C++']",TX
